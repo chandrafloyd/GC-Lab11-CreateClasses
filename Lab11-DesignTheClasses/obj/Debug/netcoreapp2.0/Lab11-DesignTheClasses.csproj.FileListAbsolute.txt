@@ -1,0 +1,11 @@
+C:\Users\Owner\source\repos\Lab11-DesignTheClasses\Lab11-DesignTheClasses\obj\Debug\netcoreapp2.0\Lab11-DesignTheClasses.csprojResolveAssemblyReference.cache
+C:\Users\Owner\source\repos\Lab11-DesignTheClasses\Lab11-DesignTheClasses\obj\Debug\netcoreapp2.0\Lab11-DesignTheClasses.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\Lab11-DesignTheClasses\Lab11-DesignTheClasses\obj\Debug\netcoreapp2.0\Lab11-DesignTheClasses.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Lab11-DesignTheClasses\Lab11-DesignTheClasses\obj\Debug\netcoreapp2.0\Lab11-DesignTheClasses.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Lab11-DesignTheClasses\Lab11-DesignTheClasses\bin\Debug\netcoreapp2.0\Lab11-DesignTheClasses.deps.json
+C:\Users\Owner\source\repos\Lab11-DesignTheClasses\Lab11-DesignTheClasses\bin\Debug\netcoreapp2.0\Lab11-DesignTheClasses.runtimeconfig.json
+C:\Users\Owner\source\repos\Lab11-DesignTheClasses\Lab11-DesignTheClasses\bin\Debug\netcoreapp2.0\Lab11-DesignTheClasses.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Lab11-DesignTheClasses\Lab11-DesignTheClasses\bin\Debug\netcoreapp2.0\Lab11-DesignTheClasses.dll
+C:\Users\Owner\source\repos\Lab11-DesignTheClasses\Lab11-DesignTheClasses\bin\Debug\netcoreapp2.0\Lab11-DesignTheClasses.pdb
+C:\Users\Owner\source\repos\Lab11-DesignTheClasses\Lab11-DesignTheClasses\obj\Debug\netcoreapp2.0\Lab11-DesignTheClasses.dll
+C:\Users\Owner\source\repos\Lab11-DesignTheClasses\Lab11-DesignTheClasses\obj\Debug\netcoreapp2.0\Lab11-DesignTheClasses.pdb
